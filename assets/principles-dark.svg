@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="186" viewBox="0 0 1200 186" role="img" aria-label="Research principles: methodological rigor, reproducibility, explainability, responsible data use, interdisciplinary thinking"><defs><linearGradient id="flow" x1="0" x2="1"><stop offset="0.0" stop-color="#4FC3C9"/><stop offset="0.25" stop-color="#6E9BE0"/><stop offset="0.5" stop-color="#E0B56A"/><stop offset="0.75" stop-color="#7FAE93"/><stop offset="1.0" stop-color="#A67FCB"/></linearGradient></defs><path d="M120.0 60 H1080.0" stroke="#2A3B55" stroke-width="3"/><path d="M120.0 60 H1080.0" stroke="url(#flow)" stroke-width="3" stroke-dasharray="960.0 960.0" stroke-dashoffset="960.0">
+      <animate attributeName="stroke-dashoffset" values="960.0;0;0" keyTimes="0;0.4;1" dur="2.5s" fill="freeze"/></path><circle r="5" cy="60" fill="#E0B56A"><animate attributeName="cx" values="120.0;1080.0" dur="5s" begin="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="5s" begin="2.5s" repeatCount="indefinite"/></circle>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.6s" fill="freeze"/>
+    <circle cx="120.0" cy="60" r="30" fill="#4FC3C9" fill-opacity="0.15"><animate attributeName="r" values="26;34;26" dur="2.5s" begin="0.0s" repeatCount="indefinite"/></circle>
+    <circle cx="120.0" cy="60" r="22" fill="#4FC3C9"/>
+    <text x="120.0" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#FFFFFF">01</text>
+    <text x="120.0" y="116" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F3EEE2">Methodological rigor</text>
+    <text x="120.0" y="142" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">Clear questions, explicit</text><text x="120.0" y="161" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">assumptions, and defensible</text><text x="120.0" y="180" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">evidence.</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.6s" fill="freeze"/>
+    <circle cx="360.0" cy="60" r="30" fill="#6E9BE0" fill-opacity="0.15"><animate attributeName="r" values="26;34;26" dur="2.5s" begin="0.75s" repeatCount="indefinite"/></circle>
+    <circle cx="360.0" cy="60" r="22" fill="#6E9BE0"/>
+    <text x="360.0" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#FFFFFF">02</text>
+    <text x="360.0" y="116" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F3EEE2">Reproducibility</text>
+    <text x="360.0" y="142" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">Documented methods, datasets,</text><text x="360.0" y="161" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">and limitations where sharing</text><text x="360.0" y="180" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">is permitted.</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.6s" fill="freeze"/>
+    <circle cx="600.0" cy="60" r="30" fill="#E0B56A" fill-opacity="0.15"><animate attributeName="r" values="26;34;26" dur="2.5s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="600.0" cy="60" r="22" fill="#E0B56A"/>
+    <text x="600.0" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#FFFFFF">03</text>
+    <text x="600.0" y="116" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F3EEE2">Explainability</text>
+    <text x="600.0" y="142" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">Understandable results and</text><text x="600.0" y="161" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">appropriate human review.</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.35s" dur="0.6s" fill="freeze"/>
+    <circle cx="840.0" cy="60" r="30" fill="#7FAE93" fill-opacity="0.15"><animate attributeName="r" values="26;34;26" dur="2.5s" begin="2.25s" repeatCount="indefinite"/></circle>
+    <circle cx="840.0" cy="60" r="22" fill="#7FAE93"/>
+    <text x="840.0" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#FFFFFF">04</text>
+    <text x="840.0" y="116" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F3EEE2">Responsible data use</text>
+    <text x="840.0" y="142" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">Attention to confidentiality,</text><text x="840.0" y="161" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">privacy, and legal</text><text x="840.0" y="180" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">obligations.</text>
+  </g>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.8s" dur="0.6s" fill="freeze"/>
+    <circle cx="1080.0" cy="60" r="30" fill="#A67FCB" fill-opacity="0.15"><animate attributeName="r" values="26;34;26" dur="2.5s" begin="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="1080.0" cy="60" r="22" fill="#A67FCB"/>
+    <text x="1080.0" y="66" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="#FFFFFF">05</text>
+    <text x="1080.0" y="116" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#F3EEE2">Interdisciplinary thinking</text>
+    <text x="1080.0" y="142" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">Bringing legal analysis and</text><text x="1080.0" y="161" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">computational methods into</text><text x="1080.0" y="180" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#B9C3D1">productive dialogue.</text>
+  </g>
+</svg>

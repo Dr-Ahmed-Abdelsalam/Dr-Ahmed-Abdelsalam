@@ -36,14 +36,11 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 
 ## Research Interests
 
-| | Area | Focus |
-| :---: | :--- | :--- |
-| ⚖️ | **Legal AI & Computational Legal Studies** | AI-assisted legal research, reasoning, and decision support |
-| 📝 | **Natural Language Processing (NLP)** | Legal text analysis, information extraction, and document classification |
-| 🔍 | **Machine Learning & Pattern Recognition** | Classification, clustering, and interpretable pattern analysis |
-| 🏛️ | **International Arbitration** | Comparative and empirical study of arbitral proceedings and decisions |
-| 🗂️ | **Legal Data Engineering** | Structured legal datasets, data quality, and reproducible workflows |
-| 🛡️ | **Explainable & Responsible AI** | Transparency, evaluation, human oversight, and accountability |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/interests-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/interests-light.svg">
+  <img alt="Research interests: Legal AI & Computational Legal Studies; Natural Language Processing; Machine Learning & Pattern Recognition; International Arbitration; Legal Data Engineering; Explainable & Responsible AI" src="assets/interests-light.svg" width="100%">
+</picture>
 
 ## Academic Focus
 
@@ -84,19 +81,11 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 
 ## Research Principles
 
-<details open>
-<summary><b>Five commitments that guide my work</b></summary>
-<br>
-
-| Principle | Commitment |
-| :--- | :--- |
-| **Methodological rigor** | Clear questions, explicit assumptions, and defensible evidence. |
-| **Reproducibility** | Documented methods, datasets, and limitations where sharing is permitted. |
-| **Explainability** | Understandable results and appropriate human review. |
-| **Responsible data use** | Attention to confidentiality, privacy, and legal obligations. |
-| **Interdisciplinary thinking** | Bringing legal analysis and computational methods into productive dialogue. |
-
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/principles-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/principles-light.svg">
+  <img alt="Research principles: methodological rigor, reproducibility, explainability, responsible data use, interdisciplinary thinking" src="assets/principles-light.svg" width="100%">
+</picture>
 
 ## Research & Collaboration
 
@@ -106,10 +95,8 @@ I welcome academic dialogue and interdisciplinary collaboration in **Legal AI**,
   <a href="https://www.linkedin.com/in/ahmed-abdelsalam-phd/"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 </p>
 
-<img src="assets/divider-animated.svg" width="100%" alt="">
-
-<div align="center">
-
-**Legal scholarship &nbsp;·&nbsp; Computational methods &nbsp;·&nbsp; Responsible AI**
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img alt="Legal scholarship · Computational methods · Responsible AI" src="assets/footer-light.svg" width="100%">
+</picture>
