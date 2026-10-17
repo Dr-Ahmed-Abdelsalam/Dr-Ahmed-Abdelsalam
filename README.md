@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Ahmed Abdelsalam — Law · Arbitration · AI · Data">
+<img src="assets/header-live.svg" width="100%" alt="Ahmed Abdelsalam — Law · Arbitration · AI · Data">
 
 <br>
 
