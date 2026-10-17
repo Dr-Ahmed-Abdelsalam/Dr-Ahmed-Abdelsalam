@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="divider">
+  <path d="M200 12 H580 M620 12 H1000" stroke="#A8834C" stroke-opacity="0.55" stroke-width="1.2"/>
+  <path d="M600 4 L608 12 L600 20 L592 12 Z" fill="#A8834C"/>
+  <circle cx="574" cy="12" r="2" fill="#A8834C"/><circle cx="626" cy="12" r="2" fill="#A8834C"/>
+</svg>
