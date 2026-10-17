@@ -16,7 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelsalam--phd-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelsalam-phd/)
 ![Research](https://img.shields.io/badge/Research-Law%20%26%20AI-A8834C?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based%20in-Egypt-587A69?style=for-the-badge)
+![Location](https://img.shields.io/badge/Based%20in-Egypt-2A9DA4?style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=Dr-Ahmed-Abdelsalam&label=Profile%20views&color=1F3A5F&style=for-the-badge)
 
 </div>
 
@@ -48,22 +49,26 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 
 <sub>Currently studying and developing practical foundations in:</sub>
 
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-1F3A5F?style=flat-square)
-![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-1F3A5F?style=flat-square)
-![Data Mining](https://img.shields.io/badge/Data%20Mining%20%26%20Data%20Warehousing-1F3A5F?style=flat-square)
-![Networks](https://img.shields.io/badge/Communication%20Systems%20%26%20Computer%20Networks-1F3A5F?style=flat-square)
-![Applied AI](https://img.shields.io/badge/Applied%20AI%20and%20Data%20Analysis-1F3A5F?style=flat-square)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-2A9DA4?style=for-the-badge)
+![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-1F3A5F?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/Data%20Mining%20%26%20Data%20Warehousing-B8904F?style=for-the-badge)
+![Networks](https://img.shields.io/badge/Communication%20Systems%20%26%20Computer%20Networks-587A69?style=for-the-badge)
+![Applied AI](https://img.shields.io/badge/Applied%20AI%20and%20Data%20Analysis-7A4E9A?style=for-the-badge)
 
 ## Technical Interests & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Python-1F3A5F?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-1F3A5F?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Jupyter-1F3A5F?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Google%20Colab-1F3A5F?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Git-1F3A5F?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-1F3A5F?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Google%20Colab-E37400?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+<details>
+<summary><b>View tools by domain</b></summary>
+<br>
 
 | Domain | Technologies and approaches |
 | :--- | :--- |
@@ -73,9 +78,15 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 | **Version Control** | Git and GitHub |
 | **Research Methodology** | Comparative legal research, empirical analysis, and interdisciplinary methods |
 
+</details>
+
 <sub><i>These reflect areas of study and practical work, not claims of expertise in every listed technology.</i></sub>
 
 ## Research Principles
+
+<details open>
+<summary><b>Five commitments that guide my work</b></summary>
+<br>
 
 | Principle | Commitment |
 | :--- | :--- |
@@ -85,9 +96,15 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 | **Responsible data use** | Attention to confidentiality, privacy, and legal obligations. |
 | **Interdisciplinary thinking** | Bringing legal analysis and computational methods into productive dialogue. |
 
+</details>
+
 ## Research & Collaboration
 
 I welcome academic dialogue and interdisciplinary collaboration in **Legal AI**, **Computational Legal Studies**, **NLP**, **empirical legal research**, and **international arbitration**.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abdelsalam-phd/"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="">
 

@@ -2,45 +2,102 @@
   <defs>
     <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.1" fill="#1C2B42"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="22 22" dur="6s" repeatCount="indefinite"/>
     </pattern>
-    <linearGradient id="fade" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#0F1B2D" stop-opacity="1"/>
-      <stop offset="0.55" stop-color="#0F1B2D" stop-opacity="0.85"/>
-      <stop offset="1" stop-color="#0F1B2D" stop-opacity="0"/>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0F1B2D"/><stop offset="0.55" stop-color="#0F1B2D" stop-opacity="0.85"/><stop offset="1" stop-color="#0F1B2D" stop-opacity="0"/>
     </linearGradient>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" x2="1200">
+      <stop offset="0" stop-color="#C9A46A" stop-opacity="0.25"/>
+      <stop offset="0.45" stop-color="#C9A46A" stop-opacity="0.25"/>
+      <stop offset="0.5" stop-color="#F2C46D" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#C9A46A" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#C9A46A" stop-opacity="0.25"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1200 0;1200 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="barg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4FC3C9"/><stop offset="0.5" stop-color="#C9A46A"/><stop offset="1" stop-color="#F2C46D"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#F2C46D" stop-opacity="0.55"/><stop offset="1" stop-color="#F2C46D" stop-opacity="0"/></radialGradient>
   </defs>
+
   <rect width="1200" height="320" rx="14" fill="#0F1B2D"/>
   <rect width="1200" height="320" rx="14" fill="url(#dots)"/>
   <rect width="760" height="320" rx="14" fill="url(#fade)"/>
-  <rect x="18" y="18" width="1164" height="284" rx="8" fill="none" stroke="#C9A46A" stroke-opacity="0.35"/>
+  <rect x="18" y="18" width="1164" height="284" rx="8" fill="none" stroke="url(#shine)" stroke-width="1.4"/>
 
   <g transform="translate(1010 165) scale(0.86) translate(-980 -170)">
-  <g stroke="#34465F" stroke-width="1.2" fill="none">
-    <path d="M980 92 L860 60 M980 92 L1110 58 M860 60 L800 120 M1110 58 L1150 132 M800 120 L850 172 M1150 132 L1110 172 M930 262 L860 280 M1030 262 L1110 282"/>
+    <circle cx="980" cy="92" r="60" fill="url(#glow)">
+      <animate attributeName="r" values="40;70;40" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <g stroke="#33465F" stroke-width="1.3" fill="none">
+      <path d="M980 92 L860 60 M980 92 L1110 58 M860 60 L800 120 M1110 58 L1150 132 M800 120 L850 172 M1150 132 L1110 172 M930 262 L860 280 M1030 262 L1110 282"/>
+    </g>
+    <g stroke="#4FC3C9" stroke-width="2" fill="none" stroke-dasharray="6 14" stroke-linecap="round">
+      <path d="M860 60 L980 92 M1110 58 L980 92 M800 120 L860 60 M1150 132 L1110 58 M850 172 L800 120 M1110 172 L1150 132 M860 280 L930 262 M1110 282 L1030 262">
+        <animate attributeName="stroke-dashoffset" from="40" to="0" dur="1.6s" repeatCount="indefinite"/>
+      </path>
+    </g>
+    <g fill="#4FC3C9">
+      <circle cx="860" cy="60" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1110" cy="58" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.2s" begin="0.4s" repeatCount="indefinite"/></circle>
+      <circle cx="800" cy="120" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.2s" begin="0.8s" repeatCount="indefinite"/></circle>
+      <circle cx="1150" cy="132" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.2s" begin="1.2s" repeatCount="indefinite"/></circle>
+      <circle cx="860" cy="280" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.2s" begin="1.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1110" cy="282" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.2s" begin="2s" repeatCount="indefinite"/></circle>
+    </g>
+    <g stroke="#C9A46A" stroke-width="2.4" fill="none" stroke-linecap="round">
+      <path d="M980 92 V262"/><path d="M930 262 H1030"/>
+    </g>
+    <g fill="#0F1B2D" stroke="#C9A46A" stroke-width="2.4">
+      <circle cx="930" cy="262" r="5"/><circle cx="1030" cy="262" r="5"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-4 980 112;4 980 112;-4 980 112" dur="6s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+      <g stroke="#C9A46A" stroke-width="2.4" fill="none" stroke-linecap="round">
+        <path d="M880 112 H1080"/>
+        <path d="M880 112 L850 172 M880 112 L910 172 M1080 112 L1050 172 M1080 112 L1110 172"/>
+        <path d="M850 172 Q880 200 910 172 Z M1050 172 Q1080 200 1110 172 Z"/>
+      </g>
+      <g fill="#0F1B2D" stroke="#C9A46A" stroke-width="2.4">
+        <circle cx="880" cy="112" r="6"/><circle cx="1080" cy="112" r="6"/>
+        <circle cx="850" cy="172" r="5"/><circle cx="910" cy="172" r="5"/>
+        <circle cx="1050" cy="172" r="5"/><circle cx="1110" cy="172" r="5"/>
+      </g>
+    </g>
+    <circle cx="980" cy="92" r="9" fill="#F2C46D"/>
   </g>
-  <g fill="#34465F">
-    <circle cx="860" cy="60" r="3.5"/><circle cx="1110" cy="58" r="3.5"/><circle cx="800" cy="120" r="3.5"/>
-    <circle cx="1150" cy="132" r="3.5"/><circle cx="860" cy="280" r="3.5"/><circle cx="1110" cy="282" r="3.5"/>
-  </g>
-  <g stroke="#C9A46A" stroke-width="2.4" fill="none" stroke-linecap="round">
-    <path d="M980 92 V262"/>
-    <path d="M930 262 H1030"/>
-    <path d="M880 112 H1080"/>
-    <path d="M880 112 L850 172 M880 112 L910 172 M1080 112 L1050 172 M1080 112 L1110 172"/>
-    <path d="M850 172 Q880 200 910 172 Z M1050 172 Q1080 200 1110 172 Z"/>
-  </g>
-  <g fill="#0F1B2D" stroke="#C9A46A" stroke-width="2.4">
-    <circle cx="880" cy="112" r="6"/><circle cx="1080" cy="112" r="6"/>
-    <circle cx="850" cy="172" r="5"/><circle cx="910" cy="172" r="5"/>
-    <circle cx="1050" cy="172" r="5"/><circle cx="1110" cy="172" r="5"/>
-    <circle cx="930" cy="262" r="5"/><circle cx="1030" cy="262" r="5"/>
-  </g>
-  <circle cx="980" cy="92" r="9" fill="#C9A46A"/>
 
+  <rect x="80" y="92" width="4" height="168" rx="2" fill="url(#barg)"/>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+    <text x="108" y="112" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.2" fill="#4FC3C9">LEGAL AI · COMPUTATIONAL LEGAL STUDIES · ARBITRATION</text>
+    <text x="106" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#F3EEE2">Ahmed M. Abdelsalam, PhD</text>
+    <text x="108" y="206" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#B9C3D1">Law <tspan fill="#C9A46A">×</tspan> Artificial Intelligence <tspan fill="#C9A46A">×</tspan> Data Science</text>
   </g>
-  <!-- text -->
-  <rect x="80" y="96" width="4" height="128" fill="#C9A46A"/>
-  <text x="108" y="118" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="3.2" fill="#C9A46A">LEGAL AI · COMPUTATIONAL LEGAL STUDIES · ARBITRATION</text>
-  <text x="106" y="176" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#F3EEE2">Ahmed M. Abdelsalam, PhD</text>
-  <text x="108" y="216" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#B9C3D1">Law <tspan fill="#C9A46A">×</tspan> Artificial Intelligence <tspan fill="#C9A46A">×</tspan> Data Science</text>
+  
+    <clipPath id="c0"><rect x="108" y="230" height="26" width="0">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;347.6;347.6;0;0" keyTimes="0.0000;0.0042;0.1375;0.2875;0.3125;1.0000"/>
+    </rect></clipPath>
+    <text clip-path="url(#c0)" x="108" y="249" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#B9C3D1"><tspan fill="#C9A46A">&gt; </tspan>Legal AI · NLP · Pattern Recognition</text>
+    <rect y="235" width="9" height="18" fill="#C9A46A" opacity="0">
+      <animate attributeName="x" dur="12.0s" repeatCount="indefinite" values="108.0;108.0;455.6;455.6;108.0;108.0" keyTimes="0.0000;0.0042;0.1375;0.2875;0.3125;1.0000"/>
+      <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.0042;0.3125"/>
+    </rect>
+    <clipPath id="c1"><rect x="108" y="230" height="26" width="0">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;395.6;395.6;0;0" keyTimes="0.0000;0.3375;0.4708;0.6208;0.6458;1.0000"/>
+    </rect></clipPath>
+    <text clip-path="url(#c1)" x="108" y="249" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#B9C3D1"><tspan fill="#C9A46A">&gt; </tspan>Computational analysis of arbitral awards</text>
+    <rect y="235" width="9" height="18" fill="#C9A46A" opacity="0">
+      <animate attributeName="x" dur="12.0s" repeatCount="indefinite" values="108.0;108.0;503.6;503.6;108.0;108.0" keyTimes="0.0000;0.3375;0.4708;0.6208;0.6458;1.0000"/>
+      <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.3375;0.6458"/>
+    </rect>
+    <clipPath id="c2"><rect x="108" y="230" height="26" width="0">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0;0;270.8;270.8;0;0" keyTimes="0.0000;0.6708;0.8042;0.9542;0.9792;1.0000"/>
+    </rect></clipPath>
+    <text clip-path="url(#c2)" x="108" y="249" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#B9C3D1"><tspan fill="#C9A46A">&gt; </tspan>Explainable &amp; Responsible AI</text>
+    <rect y="235" width="9" height="18" fill="#C9A46A" opacity="0">
+      <animate attributeName="x" dur="12.0s" repeatCount="indefinite" values="108.0;108.0;378.8;378.8;108.0;108.0" keyTimes="0.0000;0.6708;0.8042;0.9542;0.9792;1.0000"/>
+      <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0;0.6708;0.9792"/>
+    </rect>
 </svg>
