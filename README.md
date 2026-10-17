@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Ahmed M. Abdelsalam, PhD — Law × Artificial Intelligence × Data Science" src="assets/header-light.svg" width="100%">
-</picture>
+<img src="assets/header.svg" width="100%" alt="Ahmed Abdelsalam — Law · Arbitration · AI · Data">
 
 <br>
 
@@ -12,15 +8,17 @@
 
 <sub><i>Connecting legal scholarship with computational research and responsible AI.</i></sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelsalam--phd-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelsalam-phd/)
-![Research](https://img.shields.io/badge/Research-Law%20%26%20AI-A8834C?style=for-the-badge)
-![Location](https://img.shields.io/badge/Based%20in-Egypt-2A9DA4?style=for-the-badge)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelsalam--phd-CFAA64?style=for-the-badge&labelColor=2A172D)](https://www.linkedin.com/in/ahmed-abdelsalam-phd/)
+![Research](https://img.shields.io/badge/Research-Law%20%26%20AI-CFAA64?style=for-the-badge&labelColor=2A172D)
+![Location](https://img.shields.io/badge/Based%20in-Egypt-CFAA64?style=for-the-badge&labelColor=2A172D)
 
 </div>
 
-<img src="assets/divider-animated.svg" width="100%" alt="">
+<br>
 
-## About Me
+<img src="assets/title-about.svg" width="100%" alt="About Me">
 
 I am an Egyptian legal researcher and international arbitration practitioner with a **PhD in Law**, currently pursuing an **MSc in Information Technology at Alexandria University**.
 
@@ -31,34 +29,25 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 > [!NOTE]
 > **Research direction:** Bridging doctrinal legal analysis and empirical, computational approaches — without treating algorithmic outputs as substitutes for legal judgment.
 
-## Research Interests
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/interests-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/interests-light.svg">
-  <img alt="Research interests: Legal AI & Computational Legal Studies; Natural Language Processing; Machine Learning & Pattern Recognition; International Arbitration; Legal Data Engineering; Explainable & Responsible AI" src="assets/interests-light.svg" width="100%">
-</picture>
+<img src="assets/title-interests.svg" width="100%" alt="Research Interests">
 
-## Academic Focus
+<img src="assets/interests.svg" width="100%" alt="Research interests: Legal AI & Computational Legal Studies; Natural Language Processing; Machine Learning & Pattern Recognition; International Arbitration; Legal Data Engineering; Explainable & Responsible AI">
 
-<sub>Currently studying and developing practical foundations in:</sub>
+<br>
 
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-2A9DA4?style=for-the-badge)
-![Pattern Recognition](https://img.shields.io/badge/Pattern%20Recognition-1F3A5F?style=for-the-badge)
-![Data Mining](https://img.shields.io/badge/Data%20Mining%20%26%20Data%20Warehousing-B8904F?style=for-the-badge)
-![Networks](https://img.shields.io/badge/Communication%20Systems%20%26%20Computer%20Networks-587A69?style=for-the-badge)
-![Applied AI](https://img.shields.io/badge/Applied%20AI%20and%20Data%20Analysis-7A4E9A?style=for-the-badge)
+<img src="assets/title-focus.svg" width="100%" alt="Academic Focus">
 
-## Technical Interests & Tools
+<p align="center"><sub>Currently studying and developing practical foundations in:</sub></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Google%20Colab-E37400?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
+<img src="assets/focus.svg" width="100%" alt="Natural Language Processing · Pattern Recognition · Data Mining & Data Warehousing · Communication Systems & Computer Networks · Applied AI and Data Analysis">
+
+<br>
+
+<img src="assets/title-tools.svg" width="100%" alt="Technical Interests & Tools">
+
+<img src="assets/tools.svg" width="100%" alt="Python · SQL · Jupyter Notebook · Google Colab · Git · GitHub">
 
 <details>
 <summary><b>View tools by domain</b></summary>
@@ -76,24 +65,22 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 
 <sub><i>These reflect areas of study and practical work, not claims of expertise in every listed technology.</i></sub>
 
-## Research Principles
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/principles-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/principles-light.svg">
-  <img alt="Research principles: methodological rigor, reproducibility, explainability, responsible data use, interdisciplinary thinking" src="assets/principles-light.svg" width="100%">
-</picture>
+<img src="assets/title-principles.svg" width="100%" alt="Research Principles">
 
-## Research & Collaboration
+<img src="assets/principles.svg" width="100%" alt="Research principles: methodological rigor, reproducibility, explainability, responsible data use, interdisciplinary thinking">
 
-I welcome academic dialogue and interdisciplinary collaboration in **Legal AI**, **Computational Legal Studies**, **NLP**, **empirical legal research**, and **international arbitration**.
+<br>
+
+<img src="assets/title-collab.svg" width="100%" alt="Research & Collaboration">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-abdelsalam-phd/"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+I welcome academic dialogue and interdisciplinary collaboration in <b>Legal AI</b>, <b>Computational Legal Studies</b>, <b>NLP</b>, <b>empirical legal research</b>, and <b>international arbitration</b>.
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="Legal scholarship · Computational methods · Responsible AI" src="assets/footer-light.svg" width="100%">
-</picture>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-abdelsalam-phd/"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-CFAA64?style=for-the-badge&labelColor=2A172D" alt="Connect on LinkedIn"></a>
+</p>
+
+<img src="assets/footer.svg" width="100%" alt="Legal scholarship · Computational methods · Responsible AI">
