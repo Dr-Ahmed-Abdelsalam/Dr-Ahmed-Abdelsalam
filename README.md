@@ -12,12 +12,9 @@
 
 <sub><i>Connecting legal scholarship with computational research and responsible AI.</i></sub>
 
-<br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelsalam--phd-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelsalam-phd/)
 ![Research](https://img.shields.io/badge/Research-Law%20%26%20AI-A8834C?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based%20in-Egypt-2A9DA4?style=for-the-badge)
-![Profile views](https://komarev.com/ghpvc/?username=Dr-Ahmed-Abdelsalam&label=Profile%20views&color=1F3A5F&style=for-the-badge)
 
 </div>
 
