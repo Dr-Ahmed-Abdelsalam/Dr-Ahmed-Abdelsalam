@@ -2,17 +2,17 @@
 
 <img src="assets/header-live.svg" width="100%" alt="Ahmed Abdelsalam — Law · Arbitration · AI · Data">
 
-<br>
-
 <img src="assets/terminal-win.svg" width="100%" alt="PhD in Law · MSc IT Researcher · Legal AI, NLP & Data Science · International Arbitration">
 
-<sub><i>Connecting legal scholarship with computational research and responsible AI.</i></sub>
-
+<i>Connecting legal scholarship with computational research and responsible AI.</i>
 <br>
+<sub>Research focus: Law & AI &nbsp;·&nbsp; Based in Egypt</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abdelsalam--phd-CFAA64?style=for-the-badge&labelColor=2A172D)](https://www.linkedin.com/in/ahmed-abdelsalam-phd/)
-![Research](https://img.shields.io/badge/Research-Law%20%26%20AI-CFAA64?style=for-the-badge&labelColor=2A172D)
-![Location](https://img.shields.io/badge/Based%20in-Egypt-CFAA64?style=for-the-badge&labelColor=2A172D)
+<br><br>
+
+<a href="https://www.linkedin.com/in/ahmed-abdelsalam-phd/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn"></a>
+&nbsp;
+<a href="https://www.kaggle.com/drahmedmabdelsalam33"><img src="assets/btn-kaggle.svg" height="52" alt="Kaggle"></a>
 
 </div>
 
@@ -32,25 +32,39 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 
 <img src="assets/title-interests.svg" width="100%" alt="Research Interests">
 
-<img src="assets/interests.svg" width="100%" alt="Research interests: Legal AI & Computational Legal Studies; Natural Language Processing; Machine Learning & Pattern Recognition; International Arbitration; Legal Data Engineering; Explainable & Responsible AI">
+<table>
+<tr>
+<td width="64" align="center"><img src="assets/icon-legal-ai.svg" width="44" alt=""></td>
+<td><b>Legal AI & Computational Legal Studies</b><br>AI-assisted legal research, reasoning, and decision support</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="assets/icon-nlp.svg" width="44" alt=""></td>
+<td><b>Natural Language Processing (NLP)</b><br>Legal text analysis, information extraction, and document classification</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="assets/icon-ml.svg" width="44" alt=""></td>
+<td><b>Machine Learning & Pattern Recognition</b><br>Classification, clustering, and interpretable pattern analysis</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="assets/icon-arbitration.svg" width="44" alt=""></td>
+<td><b>International Arbitration</b><br>Comparative and empirical study of arbitral proceedings and decisions</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="assets/icon-data.svg" width="44" alt=""></td>
+<td><b>Legal Data Engineering</b><br>Structured legal datasets, data quality, and reproducible workflows</td>
+</tr>
+<tr>
+<td width="64" align="center"><img src="assets/icon-responsible.svg" width="44" alt=""></td>
+<td><b>Explainable & Responsible AI</b><br>Transparency, evaluation, human oversight, and accountability</td>
+</tr>
+</table>
 
 <br>
 
-<img src="assets/title-focus.svg" width="100%" alt="Academic Focus">
+<img src="assets/title-toolkit.svg" width="100%" alt="Academic Focus & Tools">
 
-<p align="center"><sub>Currently studying and developing practical foundations in:</sub></p>
-
-<img src="assets/focus.svg" width="100%" alt="Natural Language Processing · Pattern Recognition · Data Mining & Data Warehousing · Communication Systems & Computer Networks · Applied AI and Data Analysis">
-
-<br>
-
-<img src="assets/title-tools.svg" width="100%" alt="Technical Interests & Tools">
-
-<img src="assets/tools.svg" width="100%" alt="Python · SQL · Jupyter Notebook · Google Colab · Git · GitHub">
-
-<details>
-<summary><b>View tools by domain</b></summary>
-<br>
+**Currently studying and developing practical foundations in:**
+Natural Language Processing · Pattern Recognition · Data Mining & Data Warehousing · Communication Systems & Computer Networks · Applied AI and Data Analysis
 
 | Domain | Technologies and approaches |
 | :--- | :--- |
@@ -60,26 +74,20 @@ My postgraduate studies also involve broader computing disciplines beyond legal 
 | **Version Control** | Git and GitHub |
 | **Research Methodology** | Comparative legal research, empirical analysis, and interdisciplinary methods |
 
-</details>
-
 <sub><i>These reflect areas of study and practical work, not claims of expertise in every listed technology.</i></sub>
 
 <br>
 
-<img src="assets/title-principles.svg" width="100%" alt="Research Principles">
+<img src="assets/title-principles.svg" width="100%" alt="Principles & Collaboration">
 
-<img src="assets/principles.svg" width="100%" alt="Research principles: methodological rigor, reproducibility, explainability, responsible data use, interdisciplinary thinking">
+| Principle | Commitment |
+| :--- | :--- |
+| **Methodological rigor** | Clear questions, explicit assumptions, and defensible evidence. |
+| **Reproducibility** | Documented methods, datasets, and limitations where sharing is permitted. |
+| **Explainability** | Understandable results and appropriate human review. |
+| **Responsible data use** | Attention to confidentiality, privacy, and legal obligations. |
+| **Interdisciplinary thinking** | Bringing legal analysis and computational methods into productive dialogue. |
 
-<br>
-
-<img src="assets/title-collab.svg" width="100%" alt="Research & Collaboration">
-
-<p align="center">
-I welcome academic dialogue and interdisciplinary collaboration in <b>Legal AI</b>, <b>Computational Legal Studies</b>, <b>NLP</b>, <b>empirical legal research</b>, and <b>international arbitration</b>.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-abdelsalam-phd/"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-CFAA64?style=for-the-badge&labelColor=2A172D" alt="Connect on LinkedIn"></a>
-</p>
+I welcome academic dialogue and interdisciplinary collaboration in **Legal AI**, **Computational Legal Studies**, **NLP**, **empirical legal research**, and **international arbitration**.
 
 <img src="assets/footer.svg" width="100%" alt="Legal scholarship · Computational methods · Responsible AI">
