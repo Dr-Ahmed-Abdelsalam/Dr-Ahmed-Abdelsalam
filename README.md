@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Ahmed M. Abdelsalam, PhD — Law × Artificial Intelligence × Data Science" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Ahmed M. Abdelsalam, PhD — Law × Artificial Intelligence × Data Science" src="assets/header-light.svg" width="100%">
 </picture>
 
 <br>
@@ -21,7 +21,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/divider-animated.svg" width="100%" alt="">
 
 ## About Me
 
@@ -106,7 +106,7 @@ I welcome academic dialogue and interdisciplinary collaboration in **Legal AI**,
   <a href="https://www.linkedin.com/in/ahmed-abdelsalam-phd/"><img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="assets/divider-animated.svg" width="100%" alt="">
 
 <div align="center">
 
