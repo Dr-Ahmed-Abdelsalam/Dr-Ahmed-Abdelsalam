@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/terminal.svg" width="100%" alt="PhD in Law · MSc IT Researcher · Legal AI, NLP & Data Science · International Arbitration">
+<img src="assets/terminal-win.svg" width="100%" alt="PhD in Law · MSc IT Researcher · Legal AI, NLP & Data Science · International Arbitration">
 
 <sub><i>Connecting legal scholarship with computational research and responsible AI.</i></sub>
 
@@ -26,8 +26,7 @@ My interests span **law, artificial intelligence, and data science**, particular
 
 My postgraduate studies also involve broader computing disciplines beyond legal applications, including natural language processing, pattern recognition, data mining, and computer networks.
 
-> [!NOTE]
-> **Research direction:** Bridging doctrinal legal analysis and empirical, computational approaches — without treating algorithmic outputs as substitutes for legal judgment.
+<img src="assets/quote.svg" width="100%" alt="Research direction: Bridging doctrinal legal analysis and empirical, computational approaches — without treating algorithmic outputs as substitutes for legal judgment.">
 
 <br>
 
