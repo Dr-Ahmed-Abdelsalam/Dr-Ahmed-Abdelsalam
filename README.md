@@ -4,7 +4,7 @@
 
 <br>
 
-**PhD in Law &nbsp;·&nbsp; MSc IT Researcher &nbsp;·&nbsp; Legal AI, NLP & Data Science &nbsp;·&nbsp; International Arbitration**
+<img src="assets/terminal.svg" width="100%" alt="PhD in Law · MSc IT Researcher · Legal AI, NLP & Data Science · International Arbitration">
 
 <sub><i>Connecting legal scholarship with computational research and responsible AI.</i></sub>
 
